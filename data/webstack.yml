@@ -844,6 +844,14 @@
       logo: amex.ico
       url: https://www.americanexpress.com.cn/
       description: 有此相伴，成就人生
+    - title: Diners Club
+      logo: dinersclub.webp
+      url: https://www.dinersclub.com/
+      description: Cards, Benefits, Airport Lounges
+    - title: Discover
+      logo: discover.webp
+      url: https://www.discover.com/
+      description: Credit Cards, Banking & Loans
     - title: JCB
       logo: jcb.ico
       url: http://www.jcbcard.cn/
