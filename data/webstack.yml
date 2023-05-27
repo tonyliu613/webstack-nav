@@ -199,10 +199,6 @@
       logo: jiujiukanpian.ico
       url: https://www.jiujiukanpian.com/
       description: 我们因为电影而相聚
-    - title: 555电影
-      logo: 555dy.ico
-      url: https://www.555dy.cc/
-      description: 555电影，找电影更容易
     - title: 爱达杂货铺
       logo: adzhp.ico
       url: https://adzhp.cn/mian-fei-shi-pin.html
@@ -515,9 +511,6 @@
           logo: greasyfork.org.ico
           url: https://greasyfork.org/zh-CN
           description: 一个提供用户脚本的网站
-        - title: 在线扒站
-          logo: bazhan.me.ico
-          url: https://bazhan.me/
         - title: I Tell You
           logo: itellyou.cn.ico
           url: https://msdn.itellyou.cn/
@@ -539,9 +532,6 @@
         - title: Cloudflare speedtest
           logo: cloudflare.com.ico
           url: https://speed.cloudflare.com
-        - title: Hostloc Toolbox
-          logo: hostloc.1234234.xyz.ico
-          url: https://hostloc.1234234.xyz/#/
     - term: 站长博客
       icon: fas fa-blog
       links:
@@ -559,9 +549,6 @@
         - title: 大鸟博客
           logo: www.daniao.org.ico
           url: https://www.daniao.org/
-        - title: 星空社区
-          logo: for.886a.top.ico
-          url: https://for.886a.top/
         - title: 571免费资源
           logo:  www.571free.com.ico
           url: https://www.571free.com/
