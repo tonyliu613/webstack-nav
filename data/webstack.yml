@@ -629,9 +629,6 @@
         - title: 笑花落Cimen's
           logo: cimen.club.ico
           url: https://cimen.club/
-        - title: 周先生Mr.Chou
-          logo: mrchou.com.webp
-          url: https://mrchou.com/
         - title: 仙人小站
           logo: www.wrnxr.cn.ico
           url: https://www.wrnxr.cn/
@@ -673,9 +670,11 @@
       - title: Coursera
         logo: coursera.org.webp
         url: https://www.coursera.org/
+        description: Degrees, Certificates, &Free Online Courses
       - title: EdX
         logo: edx.org.webp
         url: https://edx.org/
+        description: Build new skills. Advance your career
       - title: UMOOCs
         logo: moocs.unipus.cn.webp
         url: https://moocs.unipus.cn/
@@ -683,9 +682,11 @@
       - title: 中国大学MOOC
         logo: icourse163.org.ico
         url: https://www.icourse163.org/
+        description: 国家精品课程在线学习平台
       - title: 学堂在线
         logo: next.xuetangx.com.ico
         url: https://next.xuetangx.com/
+        description: 精品课程在线学习平台
     - term: 阅读博览
       links:
         - title: 微信读书
@@ -702,9 +703,11 @@
         - title: 鸠摩文档搜索
           logo: www.jiumodiary.com.webp
           url: https://www.jiumodiary.com/
+          description: 文档搜索引擎
         - title: 书享家(电子书)
           logo: sxj.webp
           url: https://shuxiangjia.cn/
+          description: 电子书下载导航
 - taxonomy: 工具资源
   icon: fas fa-tools
   list: 
