@@ -167,6 +167,10 @@
       logo: youku.ico
       url: https://www.youku.com/
       description: 你的热爱，正在热播
+    - title: 西瓜视频
+      logo: ixigua.webp
+      url: https://www.ixigua.com/
+      description: 点亮对生活的好奇心
     - title: Youtube Music
       logo: ytm.ico
       url: https://music.youtube.com/
