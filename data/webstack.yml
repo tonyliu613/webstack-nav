@@ -151,6 +151,26 @@
       logo: netflix.webp
       url: https://www.netflix.com/
       description: At Netflix, we want to entertain the world
+    - title: Disney+
+      logo: disneyplus.webp
+      url: https://www.disneyplus.com/
+      description: Stream Disney, Pixar, Marvel, Star Wars, Nat Geo
+    - title: Amazon Prime Video
+      logo: prime video.webp
+      url: https://www.primevideo.com/
+      description: See Where It Takes You
+    - title: HBO
+      logo: hbo.webp
+      url: https://www.hbo.com/
+      description: This is HBO
+    - title: Hulu
+      logo: hulu.webp
+      url: https://www.hulu.com/
+      description: Stream TV and Movies Live and Online
+    - title: Vimeo
+      logo: vimeo.webp
+      url: https://vimeo.com/
+      description: Video Experience Platform
     - title: 腾讯视频
       logo: 腾讯视频.webp
       url: https://v.qq.com/
@@ -159,7 +179,7 @@
       logo: 爱奇艺.webp
       url: https://www.iqiyi.com/
       description: 悦享品质
-    - title: 芒果
+    - title: 芒果TV
       logo: mgtv.webp
       url: https://mgtv.com/
       description: 天生青春
@@ -171,6 +191,18 @@
       logo: ixigua.webp
       url: https://www.ixigua.com/
       description: 点亮对生活的好奇心
+    - title: 搜狐视频
+      logo: souhutv.webp
+      url: https://tv.sohu.com/
+      description: 中国领先的综合视频网站
+    - title: 咪咕视频
+      logo: migu.webp
+      url: https://www.miguvideo.com/
+      description: 让今天更有趣
+    - title: AcFun
+      logo: acfan.webp
+      url: https://www.acfun.cn/
+      description: 认真你就输啦
     - title: Youtube Music
       logo: ytm.webp
       url: https://music.youtube.com/
