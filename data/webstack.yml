@@ -24,7 +24,7 @@
       url: https://www.notion.so/
       description: The all-in-one workspace for your notes      
     - title: 哔哩哔哩
-      logo: bilibili.ico
+      logo: bilibili.webp
       url: https://www.bilibili.com/
       description: Bilibili 干杯！
     - title: 知乎
@@ -188,7 +188,7 @@
       url: https://www.kugou.com/
       description: 就是歌多！
     - title: Castbox
-      logo: castbox.ico
+      logo: castbox.webp
       url: https://castbox.fm/home?country=cn
       description: Our story
     - title: 茶杯狐
