@@ -829,9 +829,9 @@
     - title: 国务院政策文件库
       logo: gwy.webp
       url: 	https://www.gov.cn/zhengce/zhengcewenjianku/
-    - title: 国家统计年鉴
+    - title: 国家统计局
       logo: gjtjj.webp
-      url: http://www.stats.gov.cn/tjsj/ndsj/
+      url: http://www.stats.gov.cn/
 - taxonomy: 支付银行
   icon: far fa-credit-card
   links:
