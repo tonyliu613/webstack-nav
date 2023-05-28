@@ -84,6 +84,38 @@
 - taxonomy: 社媒平台
   icon: far fa-comment-dots
   links:
+    - title: 抖音
+      logo: douyin.webp   
+      url: https://www.douyin.com/
+      description: 记录美好生活
+    - title: 快手
+      logo: kuaishou.webp
+      url: https://www.kuaishou.com/
+      description: 拥抱每一种生活
+    - title: 虎扑
+      logo: hupu.webp
+      url: https://bbs.hupu.com/lol
+      description: 世界是一个竞技场
+    - title: 微博
+      logo: weibo.webp
+      url: https://weibo.com/
+      description: 随时随地发现新鲜事！
+    - title: 小红书
+      logo: xhs.webp
+      url: https://www.xiaohongshu.com/explore
+      description: 标记我的生活
+    - title: 今日头条
+      logo: toutiao.webp
+      url: https://www.toutiao.com/
+      description: 信息创造价值
+    - title: 豆瓣
+      logo: douban.webp
+      url: https://www.douban.com/
+      description: 汇聚一亿人生活趣味
+    - title: 什么值得买
+      logo: smzdm.webp
+      url: https://post.smzdm.com/
+      description: 科学消费，认真生活
     - title: Google Voice
       logo: gvoice.webp
       url: https://voice.google.com/
@@ -111,74 +143,18 @@
     - title: Reddit
       logo: reddit.webp
       url: https://www.reddit.com/
-      description: Dive into anything
-    - title: 什么值得买
-      logo: smzdm.webp
-      url: https://post.smzdm.com/
-      description: 科学消费，认真生活
-    - title: 虎扑
-      logo: hupu.webp
-      url: https://bbs.hupu.com/lol
-      description: 世界是一个竞技场
-    - title: 微博
-      logo: weibo.webp
-      url: https://weibo.com/
-      description: 随时随地发现新鲜事！
-    - title: 小红书
-      logo: xhs.webp
-      url: https://www.xiaohongshu.com/explore
-      description: 标记我的生活
-    - title: 今日头条
-      logo: toutiao.webp
-      url: https://www.toutiao.com/
-      description: 信息创造价值
-    - title: 豆瓣
-      logo: douban.webp
-      url: https://www.douban.com/
-      description: 汇聚一亿人生活趣味
-    - title: 抖音
-      logo: douyin.webp   
-      url: https://www.douyin.com/
-      description: 记录美好生活
-    - title: 快手
-      logo: kuaishou.webp
-      url: https://www.kuaishou.com/
-      description: 拥抱每一种生活
+      description: Dive into anything     
 - taxonomy: 影音娱乐
   icon: fas fa-photo-video
   links:
-    - title: Netflix
-      logo: netflix.webp
-      url: https://www.netflix.com/
-      description: At Netflix, we want to entertain the world
-    - title: Disney+
-      logo: disneyplus.webp
-      url: https://www.disneyplus.com/
-      description: Stream Disney, Pixar, Marvel, Star Wars, Nat Geo
-    - title: Amazon Prime Video
-      logo: prime video.webp
-      url: https://www.primevideo.com/
-      description: See Where It Takes You
-    - title: HBO
-      logo: hbo.webp
-      url: https://www.hbo.com/
-      description: This is HBO
-    - title: Hulu
-      logo: hulu.webp
-      url: https://www.hulu.com/
-      description: Stream TV and Movies Live and Online
-    - title: Vimeo
-      logo: vimeo.webp
-      url: https://vimeo.com/
-      description: Video Experience Platform
-    - title: 腾讯视频
-      logo: 腾讯视频.webp
-      url: https://v.qq.com/
-      description: 腾讯视频，不负好时光
     - title: 爱奇艺
       logo: 爱奇艺.webp
       url: https://www.iqiyi.com/
       description: 悦享品质
+    - title: 腾讯视频
+      logo: 腾讯视频.webp
+      url: https://v.qq.com/
+      description: 腾讯视频，不负好时光
     - title: 芒果TV
       logo: mgtv.webp
       url: https://mgtv.com/
@@ -203,6 +179,30 @@
       logo: acfun.webp
       url: https://www.acfun.cn/
       description: 认真你就输啦
+    - title: Netflix
+      logo: netflix.webp
+      url: https://www.netflix.com/
+      description: At Netflix, we want to entertain the world
+    - title: Disney+
+      logo: disneyplus.webp
+      url: https://www.disneyplus.com/
+      description: Stream Disney, Pixar, Marvel, Star Wars, Nat Geo
+    - title: Amazon Prime Video
+      logo: prime video.webp
+      url: https://www.primevideo.com/
+      description: See Where It Takes You
+    - title: HBO
+      logo: hbo.webp
+      url: https://www.hbo.com/
+      description: This is HBO
+    - title: Hulu
+      logo: hulu.webp
+      url: https://www.hulu.com/
+      description: Stream TV and Movies Live and Online
+    - title: Vimeo
+      logo: vimeo.webp
+      url: https://vimeo.com/
+      description: Video Experience Platform
     - title: Youtube Music
       logo: ytm.webp
       url: https://music.youtube.com/
@@ -219,10 +219,6 @@
       logo: kugou.webp
       url: https://www.kugou.com/
       description: 就是歌多！
-    - title: Castbox
-      logo: castbox.webp
-      url: https://castbox.fm/home?country=cn
-      description: Our story
     - title: 喜马拉雅
       logo: xmly.webp
       url: https://www.ximalaya.com/
@@ -247,6 +243,10 @@
       logo: maoerfm.webp
       url: https://www.missevan.com/
       description: 来自二次元的声音
+    - title: Castbox
+      logo: castbox.webp
+      url: https://castbox.fm/home?country=cn
+      description: Our story
     - title: 茶杯狐
       logo: cupfox.webp
       url: https://www.cupfox.app/
