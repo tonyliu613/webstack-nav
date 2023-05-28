@@ -96,14 +96,22 @@
       logo: hupu.webp
       url: https://bbs.hupu.com/lol
       description: 世界是一个竞技场
-    - title: 微博
-      logo: weibo.webp
-      url: https://weibo.com/
-      description: 随时随地发现新鲜事！
+    - title: IT之家
+      logo: ithome.webp
+      url: https://www.ithome.com/
+      description: 爱科技，爱这里
     - title: 小红书
       logo: xhs.webp
       url: https://www.xiaohongshu.com/explore
       description: 标记我的生活
+    - title: 大众点评
+      logo: dianping.webp
+      url: https://www.dianping.com/
+      description: 美食 生活 团购 旅游 电影 优惠券
+    - title: 微博
+      logo: weibo.webp
+      url: https://weibo.com/
+      description: 随时随地发现新鲜事！
     - title: 今日头条
       logo: toutiao.webp
       url: https://www.toutiao.com/
@@ -116,6 +124,10 @@
       logo: smzdm.webp
       url: https://post.smzdm.com/
       description: 科学消费，认真生活
+    - title: 36氪
+      logo: 36kr.webp
+      url: https://36kr.com/
+      description: 让一部分人先看到未来
     - title: Google Voice
       logo: gvoice.webp
       url: https://voice.google.com/
@@ -693,6 +705,10 @@
           url: https://weread.qq.com/
           logo: 微信读书.webp
           description: 微信读书在线版。
+        - title: 掌阅书城
+          url: https://www.ireader.com.cn/
+          logo: ireader.webp
+          description: 中国知名的移动互联网网络书城
         - title: 书栈网
           url: https://www.bookstack.cn/
           logo: 书栈网.webp
@@ -839,10 +855,18 @@
       logo: alipay.webp
       url: https://www.alipay.com/
       description: 支付宝，知托付！
+    - title: 网商银行
+      logo: mybank.webp
+      url: https://www.mybank.cn/
+      description: 网商银行，无微不至
     - title: 微信支付
       logo: wechatpay.webp
       url: https://pay.weixin.qq.com/
       description: 中国领先的第三方支付平台
+    - title: 微众银行
+      logo: webank.webp
+      url: https://www.webank.com/
+      description: 我们，让更好发生
     - title: PayPal
       logo: paypal.webp
       url: https://www.paypal.com/c2/home
