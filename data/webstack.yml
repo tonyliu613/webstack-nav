@@ -81,6 +81,10 @@
       logo: bxm.webp
       url: https://tool.browser.qq.com/
       description: 腾讯在线工具箱平台
+    - title: SOCPK-极客湾
+      logo: geekwan.webp
+      url: https://www.socpk.com/
+      description: 移动芯片排行
 - taxonomy: 社媒平台
   icon: far fa-comment-dots
   links:
@@ -378,6 +382,14 @@
           url: http://www.tretars.com/
           logo: tretars.webp
           description: The best free Mockups from the Web.
+        - title: PPT超级市场
+          logo: pptcjsc.webp
+          url: https://www.pptsupermarket.com/
+          description: PPT模板免费下载，最新PPT成品搜索
+        - title: AboutPPT
+          logo: aboutppt.webp
+          url: https://www.aboutppt.com/
+          description: 演示设计网址导航
         - title: 5百丁
           url: http://ppt.500d.me/
           logo: 500d.webp
@@ -402,15 +414,20 @@
           logo: bangongziyuan.com.ico
           url: https://www.bangongziyuan.com/
           description: 海量办公素材可供下载
+        - title: 黑猫会
+          logo: himore.webp
+          url: https://www.heimaohui.com/
+          description: 活动策划人都在用的全服务平台
+        - title: 第一范文网
+          logo: d1fw.webp
+          url: https://www.diyifanwen.com/
+          description: 提供专业文章范例、模板、文档资料下载
         - title: 路过图床
           logo: imgse.com.webp
           url: https://imgse.com/
         - title: 遇见图床
           logo: hualigs.cn.webp
           url: https://www.hualigs.cn/
-        - title: ImageURL图床
-          logo: imgurl.org.ico
-          url: https://imgurl.org/
         - title: 聚合图床
           logo: linshi.webp
           url: https://www.superbed.cn/
