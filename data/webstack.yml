@@ -85,6 +85,14 @@
       logo: geekwan.webp
       url: https://www.socpk.com/
       description: 移动芯片排行
+    - title: WikiHow
+      logo: wikihow.webp
+      url: https://zh.wikihow.com/
+      description: 你可以信赖的万事指南
+    - title: Weather Spark
+      logo: weather spark.webp
+      url: https://zh.weatherspark.com/
+      description: 地球上任何地点的全年天气
 - taxonomy: 社媒平台
   icon: far fa-comment-dots
   links:
@@ -132,6 +140,10 @@
       logo: 36kr.webp
       url: https://36kr.com/
       description: 让一部分人先看到未来
+    - title: 雪球
+      logo: xueqiu.webp
+      url: https://xueqiu.com/
+      description: 聪明的投资者都在这里
     - title: Google Voice
       logo: gvoice.webp
       url: https://voice.google.com/
@@ -195,6 +207,10 @@
       logo: acfun.webp
       url: https://www.acfun.cn/
       description: 认真你就输啦
+    - title: 新片场
+      logo: newpianchang.webp
+      url: https://www.xinpianchang.com/
+      description: 发现全球优质视频与创作人，与百万创作人一起成长
     - title: Netflix
       logo: netflix.webp
       url: https://www.netflix.com/
