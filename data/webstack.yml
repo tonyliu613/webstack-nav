@@ -936,14 +936,14 @@
       logo: 民生.webp
       url: http://www.cmbc.com.cn/
       description: 信任常在
-    - title: 广发银行
-      logo: 广发.webp
-      url: http://www.cgbchina.com.cn/
-      description: 享·无止境
     - title: 招商银行
       logo: 招商.webp
       url: https://www.cmbchina.com/
       description: 因您而变，成就无限
+    - title: 广发银行
+      logo: 广发.webp
+      url: http://www.cgbchina.com.cn/
+      description: 享·无止境  
     - title: 交通银行
       logo: 交通.webp
       url: https://www.bankcomm.com/
