@@ -144,10 +144,18 @@
       logo: smzdm.webp
       url: https://post.smzdm.com/
       description: 科学消费，认真生活
+    - title: 百度贴吧
+      logo: tieba.webp
+      url: https://tieba.baidu.com/
+      description: 全球领先的中文社区
     - title: 36氪
       logo: 36kr.webp
       url: https://36kr.com/
       description: 让一部分人先看到未来
+    - title: 雪球
+      logo: xueqiu.webp
+      url: https://xueqiu.com/
+      description: 聪明的投资者都在这里
     - title: Anyknew
       logo: anyknew.webp
       url: https://www.anyknew.com/
