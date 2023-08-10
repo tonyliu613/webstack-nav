@@ -112,6 +112,14 @@
       logo: kuaishou.webp
       url: https://www.kuaishou.com/
       description: 拥抱每一种生活
+    - title: 虎牙
+      logo: huya.webp
+      url: https://www.huya.com/
+      description: 技术驱动娱乐
+    - title: 斗鱼
+      logo: douyu.webp
+      url: https://www.douyu.com/
+      description: 每个人的直播平台
     - title: 虎扑
       logo: hupu.webp
       url: https://bbs.hupu.com/lol
