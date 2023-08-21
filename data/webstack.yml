@@ -974,7 +974,7 @@
       description: 人生如棋，由我左右
     - title: 建设银行
       logo: 建设.webp
-      url: http://www.ccb.com/cn/home/indexv3.html
+      url: http://www.ccb.com/
       description: 善建者行，善者建行
     - title: 上海银行
       logo: 上海.webp
@@ -986,12 +986,32 @@
       description: 工于至诚，行以致远
     - title: 中国银行
       logo: 中国.webp
-      url: https://www.boc.cn/index.html
+      url: https://www.boc.cn/
       description: 止，而后能观
     - title: 平安银行
       logo: 平安.webp
       url: http://bank.pingan.com/
       description: 典范价值，尽在平安
+    - title: 光大银行
+      logo: 光大.webp
+      url: https://www.cebbank.com/
+      description: 心光明至大成
+    - title: 兴业银行
+      logo: 兴业.webp
+      url: https://www.cib.com.cn/
+      description: 服务源自真诚，发展中我们共成长
+    - title: 农业银行
+      logo: 农业.webp
+      url: https://www.abchina.com/
+      description: 智通道合，偕行以远
+    - title: 邮政银行
+      logo: 邮政.webp
+      url: https://www.psbc.com/
+      description: 根植城乡，服务大众
+    - title: 华夏银行
+      logo: 华夏.webp
+      url: http://hxb.com.cn/
+      description: 可持续，更美好
     - title: American Express
       logo: amex.webp
       url: https://www.americanexpress.com.cn/
