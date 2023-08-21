@@ -1012,6 +1012,14 @@
       logo: 上海.webp
       url: https://www.bosc.cn/zh/
       description: 智慧金融，专业服务
+    - title: 渤海银行
+      logo: 渤海.webp
+      url: http://www.cbhb.com.cn/
+      description: 一旦选择，终身相伴
+    - title: 恒丰银行
+      logo: 恒丰.webp
+      url: https://www.hfbank.com.cn/
+      description: 恒必成，德致丰
     - title: American Express
       logo: amex.webp
       url: https://www.americanexpress.com.cn/
