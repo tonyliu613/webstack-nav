@@ -263,6 +263,22 @@
       logo: vimeo.webp
       url: https://vimeo.com/
       description: Video Experience Platform
+    - title: Plex
+      logo: plex.webp
+      url: https://www.plex.tv/
+      description: Stream Movies & TV shows
+    - title: Pluto TV
+      logo: plutotv.webp
+      url: https://pluto.tv/
+      description: Drop in. Watch free
+    - title: Tubi TV
+      logo: tubitv.webp
+      url: https://tubitv.com/
+      description: Watch Free Movies and TV shows Online
+    - title: Pandora
+      logo: pandora.webp
+      url: https://www.pandora.com/
+      description: Music and Podcasts, Free and On-Demand
     - title: Youtube Music
       logo: ytm.webp
       url: https://music.youtube.com/
