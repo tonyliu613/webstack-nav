@@ -16,7 +16,7 @@
       url: https://twitter.com/
       description: What's happening?
     - title: Gmail
-      logo: gmail.ico
+      logo: gmail.webp
       url: https://mail.google.com/ 
       description: ​Gmail is a free, advertising-supported emailservice provided by Google.
     - title: Notion
@@ -409,7 +409,7 @@
           url: https://www.zhipin.com/shenzhen/
           description: 找工作上BOSS直聘跟老板谈
         - title: 前程无忧
-          logo: 51job.ico
+          logo: 51job.webp
           url: https://www.51job.com/shenzhen/
           description: 求职，上前程无忧
         - title: 智联招聘
@@ -425,7 +425,7 @@
           url: https://www.lagou.com/shenzhen/
           description: 上拉勾招聘，专业的互联网招聘网站
         - title: 脉脉
-          logo: maimai.ico
+          logo: maimai.webp
           url: https://maimai.cn/
           description: 成就职业梦想
     - term: office资源
@@ -463,7 +463,7 @@
           url: https://hao.uisdc.com/
           description: 设计师网址导航
         - title: 1PPT
-          logo: 1ppt.com.ico
+          logo: 1ppt.com.webp
           url: https://www.1ppt.com/
           description: 第一PPT
         - title: 动画演示大师
@@ -547,7 +547,7 @@
       logo: hipdf.com.ico
       url: https://www.hipdf.com/
     - title: Light PDF
-      logo: lightpdf.com.ico
+      logo: lightpdf.com.webp
       url: https://lightpdf.com/
     - title: ezgif
       url: https://ezgif.com
@@ -576,7 +576,7 @@
       logo: liuchengtu.net.ico
       url: https://draw.liuchengtu.net/
     - title: 图怪兽
-      logo: 818ps.com.ico
+      logo: 818ps.com.webp
       url: https://818ps.com/
 - taxonomy: 建站服务
   icon: fas fa-network-wired
@@ -598,7 +598,7 @@
     - term: 技术服务
       links:
         - title: Cloudflare
-          logo: cloudflare.com.ico
+          logo: cloudflare.com.webp
           url: https://dash.cloudflare.com
           description: 为云而建的全球性网络
         - title: Vercel
@@ -713,7 +713,7 @@
           url: https://www.kezez.com/
           description: KZHome单页
         - title: 墨涩网
-          logo: www.sunweihu.com.ico
+          logo: www.sunweihu.com.webp
           url: https://www.sunweihu.com/
         - title: 笑花落Cimen's
           logo: cimen.club.ico
@@ -769,7 +769,7 @@
         url: https://moocs.unipus.cn/
         description: 中国高校外语慕课平台
       - title: 中国大学MOOC
-        logo: icourse163.org.ico
+        logo: icourse163.org.webp
         url: https://www.icourse163.org/
         description: 国家精品课程在线学习平台
       - title: 学堂在线
@@ -807,7 +807,7 @@
     - term: 云盘资源
       links:
         - title: 百度云盘
-          logo: 百度云盘.ico
+          logo: 百度云盘.webp
           url: https://pan.baidu.com/
           description: 记录每一份热爱，让美好永远陪伴
         - title: 阿里云盘
@@ -823,13 +823,13 @@
           usrl: https://www.jianguoyun.com/
           description: 坚果云官网
         - title: 123云盘
-          logo: www.123pan.com.ico
+          logo: www.123pan.com.webp
           url: https://www.123pan.com/
           description: 免登录，不限速
     - term: 软件资源
       links:
       - title: 果核剥壳
-        logo: www.ghxi.com.ico
+        logo: www.ghxi.com.webp
         url: https://www.ghxi.com/
       - title: 423Down
         logo: www.423down.com.ico
