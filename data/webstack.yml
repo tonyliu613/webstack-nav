@@ -680,7 +680,7 @@
           logo: fast.com.webp
           url: https://fast.com
         - title: Cloudflare speedtest
-          logo: cloudflare.com.ico
+          logo: cloudflare.com.webp
           url: https://speed.cloudflare.com
     - term: 站长博客
       icon: fas fa-blog
