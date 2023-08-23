@@ -1037,11 +1037,11 @@
       logo: mastercard.webp
       url: https://www.mastercard.com.cn/zh-cn.html
       description: 缔造无限可能
-    - title: 中国银联
-      logo: unionpay.webp
-      url: https://cn.unionpay.com/
-      description: 银联产品在手，精彩一路随行
     - title: Visa
       logo: visa.webp
       url: https://www.visa.cn/
       description: 全球网络，成就你我
+    - title: 中国银联
+      logo: unionpay.webp
+      url: https://cn.unionpay.com/
+      description: 银联产品在手，精彩一路随行
