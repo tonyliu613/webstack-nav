@@ -910,6 +910,12 @@
     - title: 广东政务服务网
       logo: gdzw.webp
       url: https://www.gdzwfw.gov.cn/
+    - title: 深圳市人力资源和社会保障局
+      logo: szldj.webp
+      url: http://hrss.sz.gov.cn/
+    - title: 深圳市公安局
+      logo: police.webp
+      url: http://ga.sz.gov.cn/ 
     - title: 邮政局申诉网
       logo: cnpst.webp
       url: https://sswz.spb.gov.cn/
