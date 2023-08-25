@@ -907,6 +907,9 @@
 - taxonomy: 政府部门         
   icon: fas fa-user-tie
   links:
+    - title: 广东政务服务网
+      logo: gdzw.webp
+      url: https://www.gdzwfw.gov.cn/
     - title: 邮政局申诉网
       logo: cnpst.webp
       url: https://sswz.spb.gov.cn/
