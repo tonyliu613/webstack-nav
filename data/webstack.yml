@@ -342,7 +342,7 @@
 - taxonomy: 新闻媒体
   icon: far fa-newspaper
   list:
-    - term: 英文新闻网
+    - term: 英文新闻
       links: 
         - title: The New York Times
           logo: NYT.webp
@@ -411,12 +411,20 @@
         - title: Forbes
           logo: 福布斯.webp
           url: https://www.forbes.com/
-          description: 福布斯
+          description: 福布斯杂志
         - title: Fortune
           logo: 财富.webp
           url: https://fortune.com/
-          description: 财富
-    - term: 海外新闻网中文版
+          description: 财富杂志
+        - title: Barron's
+          logo: 巴伦.webp
+          url: https://www.barrons.com/
+          description: 巴伦周刊
+        - title: NASDAQ
+          logo: NASDAQ.webp
+          url: https://www.nasdaq.com/
+          description: 纳斯达克
+    - term: 外网中文
       links: 
         - title: 纽约时报中文网
           logo: NYT.webp
