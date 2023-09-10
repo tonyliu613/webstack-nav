@@ -199,7 +199,7 @@
     - title: Reddit
       logo: reddit.webp
       url: https://www.reddit.com/
-      description: Dive into anything     
+      description: Dive into anything
 - taxonomy: 影音娱乐
   icon: fas fa-photo-video
   links:
@@ -339,6 +339,43 @@
       logo: adzhp.webp
       url: https://adzhp.cn/mian-fei-shi-pin.html
       description: 收集那些有用的东西
+- taxonomy: 新闻媒体
+  icon: far fa-newspaper
+  list:
+    - term: 
+      links: 
+        - title: The New York Times
+          logo: NYT.webp
+          url: https://www.nytimes.com/
+          description: 纽约时报
+        - title: TIME
+          logo: TIME.webp 
+          url: https://time.com
+          description: 时代周刊
+        - title: The Guardian
+          logo: 卫报.webp
+          url: https://www.theguardian.com/us
+          description: 卫报
+        - title: CNN
+          logo: CNN.webp
+          url: https://edition.cnn.com/
+          description:  美国有线电视新闻网
+        - title: Fox News
+          logo: FoxNews.webp
+          url: https://www.foxnews.com/
+          description: 福克斯新闻网
+        - title: The Wall Street Journal
+          logo: WSJ.webp
+          url: https://www.wsj.com/
+          description: 华尔街日报
+        - title: The Washington Post
+          logo: TWP.webp
+          url: https://www.washingtonpost.com/
+          description: 华盛顿邮报
+        - title: BBC News
+          logo: BBC.webp
+          url: https://www.bbc.com/
+          description: 英国广播公司
 - taxonomy: 办公
   icon: fas fa-briefcase
   list:
