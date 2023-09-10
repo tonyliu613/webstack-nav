@@ -342,12 +342,20 @@
 - taxonomy: 新闻媒体
   icon: far fa-newspaper
   list:
-    - term: 
+    - term: 英文新闻网
       links: 
         - title: The New York Times
           logo: NYT.webp
           url: https://www.nytimes.com/
           description: 纽约时报
+        - title: The Wall Street Journal
+          logo: WSJ.webp
+          url: https://www.wsj.com/
+          description: 华尔街日报
+        - title: BBC News
+          logo: BBC.webp
+          url: https://www.bbc.com/
+          description: 英国广播公司
         - title: TIME
           logo: TIME.webp 
           url: https://time.com
@@ -364,18 +372,85 @@
           logo: FoxNews.webp
           url: https://www.foxnews.com/
           description: 福克斯新闻网
-        - title: The Wall Street Journal
-          logo: WSJ.webp
-          url: https://www.wsj.com/
-          description: 华尔街日报
         - title: The Washington Post
           logo: TWP.webp
           url: https://www.washingtonpost.com/
           description: 华盛顿邮报
-        - title: BBC News
+        - title: Bloomberg
+          logo: 彭博.webp
+          url: https://www.bloomberg.com/
+          description: 彭博社
+        - title: Business Insider
+          logo: BI.webp
+          url: https://www.businessinsider.com/
+          description: 商业内幕
+        - title: Street Insider
+          logo: SI.webp
+          url: https://www.streetinsider.com/
+          description: 华尔街内参
+        - title: Market Watch
+          logo: MW.webp
+          url: https://www.marketwatch.com/
+          description: 道琼斯市场观察
+        - title: Business Journal
+          logo: BJ.webp
+          url: https://www.bizjournals.com/
+          description: 商业期刊
+        - title: CNBC
+          logo: CNBC.webp
+          url: https://www.cnbc.com/
+          description: 美国广播公司商业频道
+        - title: International Business Times
+          logo: IBT.webp
+          url: https://www.ibtimes.com/
+          description: 国际财经时报
+        - title: Digital Journal
+          logo: DJ.webp
+          url: https://www.digitaljournal.com/
+          description: 数字期刊
+        - title: Forbes
+          logo: 福布斯.webp
+          url: https://www.forbes.com/
+          description: 福布斯
+        - title: Fortune
+          logo: 财富.webp
+          url: https://fortune.com/
+          description: 财富
+    - term: 海外新闻网中文版
+      links: 
+        - title: 纽约时报中文网
+          logo: NYT.webp
+          url: https://cn.nytimes.com/
+        - title: 华尔街日报中文网
+          logo: WSJ.webp
+          url: https://cn.wsj.com/
+        - title: BBC中文网
           logo: BBC.webp
-          url: https://www.bbc.com/
-          description: 英国广播公司
+          url: https://www.bbc.com/zhongwen/
+        - title: FT中文网
+          logo: FT.webp
+          url: http://www.ftchinese.com/
+        - title: 法广中文网
+          logo: RFI.webp
+          url: https://www.rfi.fr/cn/
+        - title: 德国之声中文网
+          logo: DW.webp
+          url: http://www.dw.com/zh
+        - title: ChinaNewsX
+          logo: cnnewsx.webp
+          url: https://www.chinanewsx.com/
+        - title: 明报（香港）
+          logo: mingbao.webp
+          url: https://www.mingpao.com/
+        - title: 联合新闻网（台湾）
+          logo: UDN.webp
+          url: https://udn.com/
+        - title: 自由时报（台湾）
+          logo: LTN.webp
+          url: https://www.ltn.com.tw/
+        - title: 联合早报
+          logo: 联合早报.webp
+          url: https://www.zaobao.com.sg/global
 - taxonomy: 办公
   icon: fas fa-briefcase
   list:
