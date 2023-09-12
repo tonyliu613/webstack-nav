@@ -356,22 +356,34 @@
           logo: BBC.webp
           url: https://www.bbc.com/
           description: 英国广播公司
-        - title: TIME
-          logo: TIME.webp 
-          url: https://time.com
-          description: 时代周刊
-        - title: The Guardian
-          logo: 卫报.webp
-          url: https://www.theguardian.com/us
-          description: 卫报
         - title: CNN
           logo: CNN.webp
           url: https://edition.cnn.com/
-          description:  美国有线电视新闻网
+          description: 美国有线电视新闻网
         - title: Fox News
           logo: FoxNews.webp
           url: https://www.foxnews.com/
           description: 福克斯新闻网
+        - title: CNBC
+          logo: CNBC.webp
+          url: https://www.cnbc.com/
+          description: 美国广播公司商业频道
+        - title: International Business Times
+          logo: IBT.webp
+          url: https://www.ibtimes.com/
+          description: 国际财经时报
+        - title: VOA
+          logo: VOA.webp
+          url: https://www.voanews.com/
+          description: 美国之音
+        - title: USA Today
+          logo: UT.webp
+          url: https://www.usatoday.com/
+          description: 今日美国
+        - title: The Guardian
+          logo: 卫报.webp
+          url: https://www.theguardian.com/us
+          description: 卫报
         - title: The Washington Post
           logo: TWP.webp
           url: https://www.washingtonpost.com/
@@ -384,6 +396,10 @@
           logo: BI.webp
           url: https://www.businessinsider.com/
           description: 商业内幕
+        - title: Financial Times
+          logo: FT.webp
+          url: http://www.ftchinese.com/
+          description: 金融时报
         - title: Street Insider
           logo: SI.webp
           url: https://www.streetinsider.com/
@@ -392,18 +408,14 @@
           logo: MW.webp
           url: https://www.marketwatch.com/
           description: 道琼斯市场观察
+        - title: TIME
+          logo: TIME.webp 
+          url: https://time.com
+          description: 时代周刊
         - title: Business Journal
           logo: BJ.webp
           url: https://www.bizjournals.com/
           description: 商业期刊
-        - title: CNBC
-          logo: CNBC.webp
-          url: https://www.cnbc.com/
-          description: 美国广播公司商业频道
-        - title: International Business Times
-          logo: IBT.webp
-          url: https://www.ibtimes.com/
-          description: 国际财经时报
         - title: Digital Journal
           logo: DJ.webp
           url: https://www.digitaljournal.com/
@@ -424,6 +436,14 @@
           logo: NASDAQ.webp
           url: https://www.nasdaq.com/
           description: 纳斯达克
+        - title: CBC
+          logo: CBC.webp
+          url: https://www.cbc.ca/
+          description: 加拿大广播公司
+        - title: ABC
+          logo: ABC.webp
+          url: https://www.abc.net.au/
+          description: 澳大利亚广播公司
     - term: 外网中文
       links: 
         - title: 纽约时报中文网
@@ -435,9 +455,6 @@
         - title: BBC中文网
           logo: BBC.webp
           url: https://www.bbc.com/zhongwen/
-        - title: FT中文网
-          logo: FT.webp
-          url: http://www.ftchinese.com/
         - title: 法广中文网
           logo: RFI.webp
           url: https://www.rfi.fr/cn/
@@ -447,6 +464,12 @@
         - title: ChinaNewsX
           logo: cnnewsx.webp
           url: https://www.chinanewsx.com/
+        - title: 朝鲜日报（韩）
+          logo: 朝鲜日报.webp
+          url: https://cnnews.chosun.com/
+        - title: 日本经济中文网
+          logo: 日经.webp
+          url: https://cn.nikkei.com/
         - title: 明报（香港）
           logo: mingbao.webp
           url: https://www.mingpao.com/
