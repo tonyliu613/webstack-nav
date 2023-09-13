@@ -392,6 +392,18 @@
           logo: TWP.webp
           url: https://www.washingtonpost.com/
           description: 华盛顿邮报
+        - title: Huffpost
+          logo: huffpost.webp
+          url: https://www.huffpost.com/
+          description: 赫芬顿邮报
+        - title: The Daily Telegraph
+          logo: ttelp.webp
+          url: https://www.telegraph.co.uk/us/
+          description: 每日电讯报 
+        - title: CNET
+          logo: cnet.webp
+          url: https://www.cnet.com/
+          description: Computer Network
         - title: Bloomberg
           logo: 彭博.webp
           url: https://www.bloomberg.com/
@@ -416,6 +428,10 @@
           logo: TIME.webp 
           url: https://time.com
           description: 时代周刊
+        - title: National Geographic
+          logo: ng.webp
+          url: https://www.nationalgeographic.com/
+          description: 国家地理杂志
         - title: Business Journal
           logo: BJ.webp
           url: https://www.bizjournals.com/
