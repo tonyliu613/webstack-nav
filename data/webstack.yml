@@ -63,10 +63,10 @@
       logo: flyert.webp
       url: https://www.flyert.com/
       description: 享此刻·享未来/
-    - title: 英语导航
-      logo: www.up-6.com.webp
-      url: https://www.up-6.com/  
-      description: 最专业的英语学习导航
+    - title: 123英语导航
+      logo: en123.webp
+      url: https://www.en123.net/
+      description: 汇聚国内外优秀的英语学习网站
     - title: 网易公开课
       logo: open.163.com.webp
       url: https://open.163.com/
@@ -364,6 +364,10 @@
           logo: FoxNews.webp
           url: https://www.foxnews.com/
           description: 福克斯新闻网
+        - title: Yahoo News
+          logo: yahoo.webp
+          url: https://news.yahoo.com/
+          description: 雅虎新闻
         - title: CNBC
           logo: CNBC.webp
           url: https://www.cnbc.com/
