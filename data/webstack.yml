@@ -333,7 +333,7 @@
       description: 电影推荐
     - title: 久久影视
       logo: jiujiukanpian.webp
-      url: https://www.jiujiukanpian.com/
+      url: https://www.90yc.com/
       description: 我们因为电影而相聚
     - title: 爱达杂货铺
       logo: adzhp.webp
@@ -881,9 +881,6 @@
         - title: 仙人小站
           logo: www.wrnxr.cn.webp
           url: https://www.wrnxr.cn/
-        - title: 昼白博客
-          logo: www.zhoubaiwl.club.webp
-          url: https://www.zhoubaiwl.club/ 
 - taxonomy: 学习
   icon: fas fa-university
   list:
@@ -930,7 +927,7 @@
         description: 中国高校外语慕课平台
       - title: 中国大学MOOC
         logo: icourse163.org.webp
-        url: https://www.webpurse163.org/
+        url: https://www.icourse163.org/
         description: 国家精品课程在线学习平台
       - title: 学堂在线
         logo: next.xuetangx.com.webp
