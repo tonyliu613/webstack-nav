@@ -977,7 +977,7 @@
           description: 家庭云|网盘|文件备份|资源分享
         - title: 坚果云
           logo: 坚果云.webp
-          usrl: https://www.jianguoyun.com/
+          url: https://www.jianguoyun.com/
           description: 坚果云官网
         - title: 123云盘
           logo: www.123pan.com.webp
