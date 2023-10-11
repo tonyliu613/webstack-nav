@@ -351,7 +351,7 @@
         - title: Reuters
           logo: Reuters.webp
           url: https://www.reuters.com/
-          description: 路透社
+          description: 路透社(英)
         - title: Agence France-Presse
           logo: AFP.webp
           url: https://www.afp.com/en
@@ -359,11 +359,11 @@
         - title: United Press International
           logo: UPI.webp
           url: https://www.upi.com/
-          description: 合众国际社
+          description: 合众国际社(美)
         - title: ITAP-TACC
           logo: TACC.webp
           url: https://tass.com/
-          description: 塔斯社
+          description: 塔斯社(俄)
     - term: 英文新闻
       links: 
         - title: The New York Times
@@ -506,19 +506,19 @@
         - title: ChinaNewsX
           logo: cnnewsx.webp
           url: https://www.chinanewsx.com/
-        - title: 朝鲜日报（韩）
+        - title: 朝鲜日报(韩)
           logo: 朝鲜日报.webp
           url: https://cnnews.chosun.com/
         - title: 日本经济中文网
           logo: 日经.webp
           url: https://cn.nikkei.com/
-        - title: 明报（香港）
+        - title: 明报(港)
           logo: mingbao.webp
           url: https://www.mingpao.com/
-        - title: 联合新闻网（台湾）
+        - title: 联合新闻网(台)
           logo: UDN.webp
           url: https://udn.com/
-        - title: 自由时报（台湾）
+        - title: 自由时报(台)
           logo: LTN.webp
           url: https://www.ltn.com.tw/
         - title: 联合早报
