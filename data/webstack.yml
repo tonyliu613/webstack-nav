@@ -342,6 +342,28 @@
 - taxonomy: 新闻媒体
   icon: far fa-newspaper
   list:
+    - term: 通讯社
+      links: 
+        - title: The Associated Press
+          logo: AP.webp
+          url: https://apnews.com/
+          description: 美联社
+        - title: Reuters
+          logo: Reuters.webp
+          url: https://www.reuters.com/
+          description: 路透社
+        - title: Agence France-Presse
+          logo: AFP.webp
+          url: https://www.afp.com/en
+          description: 法新社
+        - title: United Press International
+          logo: UPI.webp
+          url: https://www.upi.com/
+          description: 合众国际社
+        - title: ITAP-TACC
+          logo: TACC.webp
+          url: https://tass.com/
+          description: 塔斯社
     - term: 英文新闻
       links: 
         - title: The New York Times
