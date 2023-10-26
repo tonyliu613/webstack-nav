@@ -97,10 +97,11 @@
       description: 
     - title: English Level Up
       logo: github.webp
-      url: https://github.com/byoungd/English-level-up-tips
-    - title: The Run Philosophy
+      url: https://github.com/byoungd/English-level-up-
+    - title: The Economist
       logo: github.webp
-      url: https://github.com/The-Run-Philosophy-Organization/run
+      url: https://github.com/hehonghui/awesome-english-ebooks
+      description: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载
 - taxonomy: 社媒平台
   icon: far fa-comment-dots
   links:
@@ -112,6 +113,14 @@
       logo: kuaishou.webp
       url: https://www.kuaishou.com/
       description: 拥抱每一种生活
+    - title: 小红书
+      logo: xhs.webp
+      url: https://www.xiaohongshu.com/explore
+      description: 标记我的生活
+    - title: 虎扑
+      logo: hupu.webp
+      url: https://bbs.hupu.com/lol
+      description: 世界是一个竞技场
     - title: 虎牙
       logo: huya.webp
       url: https://www.huya.com/
@@ -120,18 +129,10 @@
       logo: douyu.webp
       url: https://www.douyu.com/
       description: 每个人的直播平台
-    - title: 虎扑
-      logo: hupu.webp
-      url: https://bbs.hupu.com/lol
-      description: 世界是一个竞技场
     - title: IT之家
       logo: ithome.webp
       url: https://www.ithome.com/
       description: 爱科技，爱这里
-    - title: 小红书
-      logo: xhs.webp
-      url: https://www.xiaohongshu.com/explore
-      description: 标记我的生活
     - title: 大众点评
       logo: dianping.webp
       url: https://www.dianping.com/
@@ -192,6 +193,10 @@
       logo: discord.webp
       url: https://discord.com/
       description: Your place to talk and hang out
+    - title: WhatsApp
+      logo: whatsapp.webp
+      url: https://www.whatsapp.com/
+      description: 安全可靠的免费私密消息和通话
     - title: Quora
       logo: quora.webp
       url: https://www.quora.com/
@@ -321,7 +326,7 @@
       description: 来自二次元的声音
     - title: Castbox
       logo: castbox.webp
-      url: https://castbox.fm/home?country=cn
+      url: https://www.castbox.fm/home?country=cn
       description: Our story
     - title: 茶杯狐
       logo: cupfox.webp
