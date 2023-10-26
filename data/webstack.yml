@@ -83,25 +83,21 @@
       logo: bxm.webp
       url: https://tool.browser.qq.com/
       description: 腾讯在线工具箱平台
-    - title: WikiHow
-      logo: wikihow.webp
-      url: https://zh.wikihow.com/
-      description: 你可以信赖的万事指南
-    - title: Weather Spark
-      logo: weather spark.webp
-      url: https://zh.weatherspark.com/
-      description: 地球上任何地点的全年天气
     - title: 驾考宝典
       logo: jkbd.webp
       url: https://shenzhen.jiakaobaodian.com/
       description: 
     - title: English Level Up
       logo: github.webp
-      url: https://github.com/byoungd/English-level-up-
+      url: https://github.com/byoungd/English-level-up-tips
     - title: The Economist
       logo: github.webp
       url: https://github.com/hehonghui/awesome-english-ebooks
       description: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载
+    - title: Run
+      logo: github.webp
+      url: https://github.com/The-Run-Philosophy-Organization/run
+      description: 润学指南
 - taxonomy: 社媒平台
   icon: far fa-comment-dots
   links:
@@ -883,18 +879,9 @@
           logo: tangly.webp
           url: https://tangly1024.com/
           description: Notion-next开发者
-        - title: 广然笔记
-          logo: linshi.webp
-          url: https://www.rsecc.cn/
         - title: 大鸟博客
           logo: www.daniao.org.webp
           url: https://www.daniao.org/
-        - title: 571免费资源
-          logo:  www.571free.com.webp
-          url: https://www.571free.com/
-        - title: 科技玩家
-          logo: www.kejiwanjia.com.webp
-          url: https://www.kejiwanjia.com/
         - title: 笨猫博客
           logo: www.nbmao.com.webp
           url: https://www.nbmao.com/
@@ -902,9 +889,6 @@
           logo: www.kezez.com.webp
           url: https://www.kezez.com/
           description: KZHome单页
-        - title: 墨涩网
-          logo: www.sunweihu.com.webp
-          url: https://www.sunweihu.com/
         - title: 笑花落Cimen's
           logo: cimen.club.webp
           url: https://cimen.club/
