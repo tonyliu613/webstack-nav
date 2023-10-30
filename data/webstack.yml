@@ -803,10 +803,6 @@
           logo: freenom.com.webp
           url: https://my.freenom.com/clientarea.php?action=domains
           description: A name for everyone
-        - title: Stack Overflow
-          logo: stackoverflow.com.webp
-          url: https://stackoverflow.com/
-          description: Every developer has a tab open to Stack Overflow
         - title: Ping.pe
           logo: ping.webp
           url: https://ping.pe
@@ -827,19 +823,6 @@
           logo: boce.com.webp
           url: https://www.boce.com/
           description: 免费的域名检测工具网
-        - title: Geekflare
-          logo: geekflare.webp
-          url: https://geekflare.com/tools
-          description: Set of FREE tools to test your site for DNS, Security, Performance, Network and SEO issues.
-        - title: Http3check.net
-          logo: h3check.webp
-          url: https://http3check.net/
-        - title: Pingdom Website Speed Test
-          logo: tools.pingdom.com.webp
-          url: https://tools.pingdom.com/
-        - title: PageSpeed Insights
-          logo: pagespeed.web.dev.webp
-          url: https://pagespeed.web.dev/
         - title: IP墙检测
           logo: toolsdaquan.com.webp
           url: https://www.toolsdaquan.com/ipcheck/
@@ -950,10 +933,6 @@
           url: https://www.ireader.com.cn/
           logo: ireader.webp
           description: 中国知名的移动互联网网络书城
-        - title: 书栈网
-          url: https://www.bookstack.cn/
-          logo: 书栈网.webp
-          description: IT 互联网开源编程书籍免费阅读与下载。
         - title: 全历史
           logo: www.allhistory.com.webp
           url: https://www.allhistory.com/
