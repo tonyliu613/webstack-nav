@@ -761,26 +761,26 @@
     - title: 图怪兽
       logo: 818ps.com.webp
       url: https://818ps.com/
-- taxonomy: 建站服务
+- taxonomy: 网站服务
   icon: fas fa-network-wired
   list:
     - term: 云服务器
       links:
-        - title: Netcup
-          logo: netcup.de.webp
-          url: https://www.netcup.de/
-        - title: Oracle Cloud
-          logo: cloud.oracle.com.webp
-          url: https://cloud.oracle.com/?region=ap-tokyo-1
+        - title: Vmiss
+          logo: vmiss.webp
+          url: https://www.vmiss.com/
         - title: Cloudcone
           logo: cloudcone.com.webp
           url: https://cloudcone.com/
         - title: RackNerd
           logo: racknerd.com.webp
           url: https://www.racknerd.com/
-        - title: Vmiss
-          logo: vmiss.webp
-          url: https://www.vmiss.com/
+        - title: Netcup
+          logo: netcup.de.webp
+          url: https://www.netcup.de/
+        - title: Oracle Cloud
+          logo: cloud.oracle.com.webp
+          url: https://cloud.oracle.com/?region=ap-tokyo-1
     - term: 技术服务
       links:
         - title: Cloudflare
@@ -1027,12 +1027,6 @@
         - title: 快搜(虫部落)
           logo: search.chongbuluo.com.webp
           url: https://search.chongbuluo.com/
-        - title: 默沙东诊疗手册
-          logo: msd.webp
-          url: https://www.msdmanuals.cn/
-        - title: 互联网数据资讯网
-          logo: www.199it.com.webp
-          url: http://www.199it.com/
         - title: iconfont
           logo: iconfont.webp
           url: https://www.iconfont.cn/
