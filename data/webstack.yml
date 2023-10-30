@@ -284,22 +284,6 @@
       logo: dedao.webp
       url: https://www.dedao.cn/
       description: 知识就是力量，知识就在得到
-    - title: 路上读书
-      logo: lsds.webp
-      url: https://www.auto-learning.com/
-      description: 一个专听国际书籍的APP
-    - title: 蜻蜓FM
-      logo: qtfm.webp
-      url: https://www.qtfm.cn/
-      description: 有声小说，有声读物，电台广播在线听书
-    - title: 荔枝FM
-      logo: lizhifm.webp
-      url: https://www.lizhi.fm/
-      description: 有声小说相声评书脱口秀鬼故事广播剧听书直播FM
-    - title: 猫耳FM
-      logo: maoerfm.webp
-      url: https://www.missevan.com/
-      description: 来自二次元的声音
     - title: Castbox
       logo: castbox.webp
       url: https://www.castbox.fm/home?country=cn
