@@ -145,30 +145,10 @@
       logo: douban.webp
       url: https://www.douban.com/
       description: 汇聚一亿人生活趣味
-    - title: 什么值得买
-      logo: smzdm.webp
-      url: https://post.smzdm.com/
-      description: 科学消费，认真生活
     - title: 百度贴吧
       logo: tieba.webp
       url: https://tieba.baidu.com/
       description: 全球领先的中文社区
-    - title: 36氪
-      logo: 36kr.webp
-      url: https://36kr.com/
-      description: 让一部分人先看到未来
-    - title: 雪球
-      logo: xueqiu.webp
-      url: https://xueqiu.com/
-      description: 聪明的投资者都在这里
-    - title: Anyknew
-      logo: anyknew.webp
-      url: https://www.anyknew.com/
-      description: 高效读资讯，5分钟遍历全网热点
-    - title: 今日热榜
-      logo: tophub.webp
-      url: https://tophub.today/
-      description: 追踪全网热点，简单高效阅读
     - title: Google Voice
       logo: gvoice.webp
       url: https://voice.google.com/
