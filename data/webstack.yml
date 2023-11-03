@@ -601,7 +601,7 @@
           url: https://www.aboutppt.com/
           description: 演示设计网址导航
         - title: 5百丁
-          url: http://ppt.500d.me/
+          url: http://www.500d.me/
           logo: 500d.webp
           description: 中国领先的PPT简历模板共享平台。
         - title: PPT资源导航
@@ -624,14 +624,6 @@
           logo: bangongziyuan.com.webp
           url: https://www.bangongziyuan.com/
           description: 海量办公素材可供下载
-        - title: 黑猫会
-          logo: himore.webp
-          url: https://www.heimaohui.com/
-          description: 活动策划人都在用的全服务平台
-        - title: 第一范文网
-          logo: d1fw.webp
-          url: https://www.diyifanwen.com/
-          description: 提供专业文章范例、模板、文档资料下载
         - title: 路过图床
           logo: imgse.com.webp
           url: https://imgse.com/
