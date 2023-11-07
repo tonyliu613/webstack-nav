@@ -1,12 +1,12 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: Useful Websites
   icon: far fa-star
   links: 
     - title: GitHub
       logo: github.webp
       url: https://github.com/
-      description: GitHub 开源社区
+      description: GitHub
     - title: Youtube
       logo: youtube.webp
       url: https://youtube.com/
@@ -23,136 +23,17 @@
       logo: notion.webp
       url: https://www.notion.so/
       description: The all-in-one workspace for your notes      
-    - title: 哔哩哔哩
-      logo: bilibili.webp
-      url: https://www.bilibili.com/
-      description: Bilibili 干杯！
-    - title: 知乎
-      logo: 知乎.webp
-      url: https://www.zhihu.com/
-      description: 有问题，就会有答案
-    - title: QQ 邮箱
-      logo: qq邮箱.webp
-      url: https://mail.qq.com/
-      description: 常联系
-    - title: '12306'
-      logo: 铁路12306.webp
-      url: https://www.12306.cn/
-      description: 中国铁路官方网站
-    - title: HOSTLOC
-      logo: hostloc.webp
-      url: https://hostloc.com/forum-45-1.html
-      description: 全球主机交流论坛
-    - title: 恩山无线
-      logo: eswx.webp
-      url: https://www.right.com.cn/forum/
-      description: 我的恩山，我的无线
-    - title: ACWIFI
-      logo: acwifi.webp
-      url: https://www.acwifi.net/
-      description: 路由器技术分享交流
-    - title: V2EX
-      logo: v2ex.webp
-      url: https://www.v2ex.com/
-      description: 创意工作者的社区
-    - title: 我爱卡论坛
-      logo: wak.webp
-      url: https://bbs.51credit.com/
-      description: 发水了，快冲！
-    - title: 飞客茶馆
-      logo: flyert.webp
-      url: https://www.flyert.com/
-      description: 享此刻·享未来/
-    - title: 123英语导航
-      logo: en123.webp
-      url: https://www.en123.net/
-      description: 汇聚国内外优秀的英语学习网站
-    - title: 网易公开课
-      logo: open.163.com.webp
-      url: https://open.163.com/
-      description: 有计划学得更快！
-    - title: SOCPK-极客湾
-      logo: geekwan.webp
-      url: https://www.socpk.com/
-      description: 移动芯片排行
-    - title: OP.GG
-      logo: opgg.webp
-      url: https://www.op.gg/
-      description: Lol Stats, Record Replay, Database, Guide
-    - title: 帮小忙
-      logo: bxm.webp
-      url: https://tool.browser.qq.com/
-      description: 腾讯在线工具箱平台
-    - title: 驾考宝典
-      logo: jkbd.webp
-      url: https://shenzhen.jiakaobaodian.com/
-      description: 
-    - title: English Level Up
-      logo: github.webp
-      url: https://github.com/byoungd/English-level-up-tips
-    - title: The Economist
-      logo: github.webp
-      url: https://github.com/hehonghui/awesome-english-ebooks
-      description: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载
-    - title: Run
-      logo: github.webp
-      url: https://github.com/The-Run-Philosophy-Organization/run
-      description: 润学指南
-- taxonomy: 社媒平台
+- taxonomy: Social Media
   icon: far fa-comment-dots
   links:
-    - title: 抖音
+    - title: TikTok
       logo: douyin.webp   
-      url: https://www.douyin.com/
-      description: 记录美好生活
-    - title: 快手
-      logo: kuaishou.webp
-      url: https://www.kuaishou.com/
-      description: 拥抱每一种生活
-    - title: 小红书
-      logo: xhs.webp
-      url: https://www.xiaohongshu.com/explore
-      description: 标记我的生活
-    - title: 虎扑
-      logo: hupu.webp
-      url: https://bbs.hupu.com/lol
-      description: 世界是一个竞技场
-    - title: 虎牙
-      logo: huya.webp
-      url: https://www.huya.com/
-      description: 技术驱动娱乐
-    - title: 斗鱼
-      logo: douyu.webp
-      url: https://www.douyu.com/
-      description: 每个人的直播平台
-    - title: IT之家
-      logo: ithome.webp
-      url: https://www.ithome.com/
-      description: 爱科技，爱这里
-    - title: 大众点评
-      logo: dianping.webp
-      url: https://www.dianping.com/
-      description: 美食 生活 团购 旅游 电影 优惠券
-    - title: 微博
-      logo: weibo.webp
-      url: https://weibo.com/
-      description: 随时随地发现新鲜事！
-    - title: 今日头条
-      logo: toutiao.webp
-      url: https://www.toutiao.com/
-      description: 信息创造价值
-    - title: 豆瓣
-      logo: douban.webp
-      url: https://www.douban.com/
-      description: 汇聚一亿人生活趣味
-    - title: 百度贴吧
-      logo: tieba.webp
-      url: https://tieba.baidu.com/
-      description: 全球领先的中文社区
+      url: https://www.tiktok.com/
+      description: TikTok Videos
     - title: Google Voice
       logo: gvoice.webp
       url: https://voice.google.com/
-      description: 常用且好用的GV号
+      description: Calls and text anywhere
     - title: Facebook
       logo: facebook.webp
       url: https://www.facebook.com/
@@ -165,6 +46,10 @@
       logo: instagram.webp
       url: https://www.instagram.com/
       description: Capture and Share the World's Moments
+    - title: Twitter
+      logo: twitter.webp
+      url: https://twitter.com/
+      description: What's happening?
     - title: Discord
       logo: discord.webp
       url: https://discord.com/
@@ -172,7 +57,7 @@
     - title: WhatsApp
       logo: whatsapp.webp
       url: https://www.whatsapp.com/
-      description: 安全可靠的免费私密消息和通话
+      description: Secure messaging platform
     - title: Quora
       logo: quora.webp
       url: https://www.quora.com/
@@ -181,45 +66,13 @@
       logo: reddit.webp
       url: https://www.reddit.com/
       description: Dive into anything
-- taxonomy: 影音娱乐
+- taxonomy: Media Entertainment
   icon: fas fa-photo-video
   links:
-    - title: 爱奇艺
-      logo: 爱奇艺.webp
-      url: https://www.iqiyi.com/
-      description: 悦享品质
-    - title: 腾讯视频
-      logo: 腾讯视频.webp
-      url: https://v.qq.com/
-      description: 腾讯视频，不负好时光
-    - title: 芒果TV
-      logo: mgtv.webp
-      url: https://mgtv.com/
-      description: 天生青春
-    - title: 优酷
-      logo: youku.webp
-      url: https://www.youku.com/
-      description: 你的热爱，正在热播
-    - title: 西瓜视频
-      logo: ixigua.webp
-      url: https://www.ixigua.com/
-      description: 点亮对生活的好奇心
-    - title: 搜狐视频
-      logo: souhutv.webp
-      url: https://tv.sohu.com/
-      description: 中国领先的综合视频网站
-    - title: 咪咕视频
-      logo: migu.webp
-      url: https://www.miguvideo.com/
-      description: 让今天更有趣
-    - title: AcFun
-      logo: acfun.webp
-      url: https://www.acfun.cn/
-      description: 认真你就输啦
-    - title: 新片场
-      logo: newpianchang.webp
-      url: https://www.xinpianchang.com/
-      description: 发现全球优质视频与创作人，与百万创作人一起成长
+    - title: Youtube
+      logo: youtube.webp
+      url: https://youtube.com/
+      description: Broadcast Yourself
     - title: Netflix
       logo: netflix.webp
       url: https://www.netflix.com/
@@ -264,129 +117,93 @@
       logo: ytm.webp
       url: https://music.youtube.com/
       description: It's all here.
-    - title: QQ 音乐
-      logo: qqmusic.webp
-      url: https://y.qq.com/
-      description: 听我想听
-    - title: 网易云音乐
-      logo: 网易云音乐.webp
-      url: https://music.163.com/
-      description: 音乐的力量
-    - title: 酷狗音乐
-      logo: kugou.webp
-      url: https://www.kugou.com/
-      description: 就是歌多！
-    - title: 喜马拉雅
-      logo: xmly.webp
-      url: https://www.ximalaya.com/
-      description: 有声小说，听书，听小说，听故事，听广播
-    - title: 得到
-      logo: dedao.webp
-      url: https://www.dedao.cn/
-      description: 知识就是力量，知识就在得到
     - title: Castbox
       logo: castbox.webp
       url: https://www.castbox.fm/home?country=cn
       description: Our story
-    - title: 茶杯狐
-      logo: cupfox.webp
-      url: https://www.cupfox.app/
-      description: 努力让找电影变得简单
-    - title: MVCAT
-      logo: mvcat.webp
-      url: https://www.mvcat.com/
-      description: 电影推荐
-    - title: 久久影视
-      logo: jiujiukanpian.webp
-      url: https://www.90yc.com/
-      description: 我们因为电影而相聚
-    - title: 爱达杂货铺
-      logo: adzhp.webp
-      url: https://adzhp.cn/mian-fei-shi-pin.html
-      description: 收集那些有用的东西
-- taxonomy: 新闻媒体
+- taxonomy: News Media
   icon: far fa-newspaper
   list:
-    - term: 通讯社
+    - term: News Agency
       links: 
         - title: The Associated Press
           logo: AP.webp
           url: https://apnews.com/
-          description: 美联社
+          description: The Associated Press
         - title: Reuters
           logo: Reuters.webp
           url: https://www.reuters.com/
-          description: 路透社(英)
+          description: Reuters (UK)
         - title: Agence France-Presse
           logo: AFP.webp
           url: https://www.afp.com/en
-          description: 法新社
+          description: Agence France-Presse
         - title: United Press International
           logo: UPI.webp
           url: https://www.upi.com/
-          description: 合众国际社(美)
+          description: United Press International (US)
         - title: ITAP-TACC
           logo: TACC.webp
           url: https://tass.com/
-          description: 塔斯社(俄)
-    - term: 英文新闻
+          description: ITAP-TACC (RU)
+    - term: English News
       links: 
         - title: The New York Times
           logo: NYT.webp
           url: https://www.nytimes.com/
-          description: 纽约时报
+          description: The New York Times
         - title: The Wall Street Journal
           logo: WSJ.webp
           url: https://www.wsj.com/
-          description: 华尔街日报
+          description: The Wall Street Journal
         - title: BBC News
           logo: BBC.webp
           url: https://www.bbc.com/
-          description: 英国广播公司
+          description: BBC News
         - title: CNN
           logo: CNN.webp
           url: https://edition.cnn.com/
-          description: 美国有线电视新闻网
+          description: CNN
         - title: Fox News
           logo: FoxNews.webp
           url: https://www.foxnews.com/
-          description: 福克斯新闻网
+          description: Fox News
         - title: Yahoo News
           logo: yahoo.webp
           url: https://news.yahoo.com/
-          description: 雅虎新闻
+          description: Yahoo News
         - title: CNBC
           logo: CNBC.webp
           url: https://www.cnbc.com/
-          description: 美国广播公司商业频道
+          description: CNBC
         - title: International Business Times
           logo: IBT.webp
           url: https://www.ibtimes.com/
-          description: 国际财经时报
+          description: International Business Times
         - title: VOA
           logo: VOA.webp
           url: https://www.voanews.com/
-          description: 美国之音
+          description: VOA
         - title: USA Today
           logo: UT.webp
           url: https://www.usatoday.com/
-          description: 今日美国
+          description: USA Today
         - title: The Guardian
           logo: 卫报.webp
           url: https://www.theguardian.com/us
-          description: 卫报
-        - title: The Washington Post
+          description: The Guardian
+        - title: c
           logo: TWP.webp
           url: https://www.washingtonpost.com/
-          description: 华盛顿邮报
+          description: The Washington Post
         - title: Huffpost
           logo: huffpost.webp
           url: https://www.huffpost.com/
-          description: 赫芬顿邮报
+          description: Huffpost
         - title: The Daily Telegraph
           logo: ttelp.webp
           url: https://www.telegraph.co.uk/us/
-          description: 每日电讯报 
+          description: The Daily Telegraph
         - title: CNET
           logo: cnet.webp
           url: https://www.cnet.com/
@@ -394,110 +211,76 @@
         - title: Bloomberg
           logo: 彭博.webp
           url: https://www.bloomberg.com/
-          description: 彭博社
+          description: Bloomberg
         - title: Business Insider
           logo: BI.webp
           url: https://www.businessinsider.com/
-          description: 商业内幕
+          description: Business Insider
         - title: Financial Times
           logo: FT.webp
           url: http://www.ftchinese.com/
-          description: 金融时报
+          description: Financial Times
         - title: Street Insider
           logo: SI.webp
           url: https://www.streetinsider.com/
-          description: 华尔街内参
+          description: Street Insider
         - title: Market Watch
           logo: MW.webp
           url: https://www.marketwatch.com/
-          description: 道琼斯市场观察
+          description: Market Watch
         - title: TIME
           logo: TIME.webp 
           url: https://time.com
-          description: 时代周刊
+          description: TIME
         - title: National Geographic
           logo: ng.webp
           url: https://www.nationalgeographic.com/
-          description: 国家地理杂志
+          description: National Geographic
         - title: Business Journal
           logo: BJ.webp
           url: https://www.bizjournals.com/
-          description: 商业期刊
+          description: Business Journal
         - title: Digital Journal
           logo: DJ.webp
           url: https://www.digitaljournal.com/
-          description: 数字期刊
+          description: Digital Journal
         - title: Forbes
           logo: 福布斯.webp
           url: https://www.forbes.com/
-          description: 福布斯杂志
+          description: Forbes Magazine
         - title: Fortune
           logo: 财富.webp
           url: https://fortune.com/
-          description: 财富杂志
+          description: Fortune Magazine
         - title: Barron's
           logo: 巴伦.webp
           url: https://www.barrons.com/
-          description: 巴伦周刊
+          description: Barron's
         - title: NASDAQ
           logo: NASDAQ.webp
           url: https://www.nasdaq.com/
-          description: 纳斯达克
+          description: NASDAQ
         - title: CBC
           logo: CBC.webp
           url: https://www.cbc.ca/
-          description: 加拿大广播公司
+          description: CBC
         - title: ABC
           logo: ABC.webp
           url: https://www.abc.net.au/
-          description: 澳大利亚广播公司
-    - term: 外网中文
-      links: 
-        - title: 纽约时报中文网
-          logo: NYT.webp
-          url: https://cn.nytimes.com/
-        - title: 华尔街日报中文网
-          logo: WSJ.webp
-          url: https://cn.wsj.com/
-        - title: BBC中文网
-          logo: BBC.webp
-          url: https://www.bbc.com/zhongwen/
-        - title: 法广中文网
-          logo: RFI.webp
-          url: https://www.rfi.fr/cn/
-        - title: 德国之声中文网
-          logo: DW.webp
-          url: http://www.dw.com/zh
-        - title: ChinaNewsX
-          logo: cnnewsx.webp
-          url: https://www.chinanewsx.com/
-        - title: 朝鲜日报(韩)
-          logo: 朝鲜日报.webp
-          url: https://cnnews.chosun.com/
-        - title: 日本经济中文网
-          logo: 日经.webp
-          url: https://cn.nikkei.com/
-        - title: 明报(港)
-          logo: mingbao.webp
-          url: https://www.mingpao.com/
-        - title: 联合新闻网(台)
-          logo: UDN.webp
-          url: https://udn.com/
-        - title: 自由时报(台)
-          logo: LTN.webp
-          url: https://www.ltn.com.tw/
-        - title: 联合早报(新)
-          logo: 联合早报.webp
-          url: https://www.zaobao.com.sg/global
-- taxonomy: 办公
+          description: ABC
+- taxonomy: Work
   icon: fas fa-briefcase
   list:
-    - term: 邮箱
+    - term: Email
       links: 
+        - title: Gmail
+          logo: gmail.webp
+          url: https://mail.google.com/ 
+          description: ​Gmail is a free, advertising-supported emailservice provided by Google.
         - title: Outlook
           logo: outlook.live.com.webp
           url: https://www.outlook.com/
-          description: 来自Microsoft的个人免费邮件和日历
+          description: Free personal mail and calendar from Microsoft
         - title: ProtonMail
           logo: protonmail.webp
           url: https://protonmail.com/zh-Hans/
@@ -509,138 +292,22 @@
         - title: rootsh
           logo: rootsh.com.webp
           url: https://rootsh.com/
-          description: 临时邮箱、十分钟邮箱   
+          description: Temporary mailbox, ten-minute mailbox  
         - title: mail.td
           logo: mail.td.webp
           url: https://mail.td/zh
-          description: 一次性临时邮件电子服务
-    - term: 文档笔记
-      links:
-        - title: 腾讯文档
-          logo: txwd.webp
-          url: https://docs.qq.com/
-          description: 让协作更高效，创作更轻松
-        - title: 石墨文档
-          logo: shimo.webp  
-          url: https://shimo.im/
-          description: 全新一代云端 Office，面向未来的办公软件
-        - title: 幕布 
-          logo: mubu.webp 
-          url: https://mubu.com/home
-          description: 极简大纲笔记，一键生成思维导图
-        - title: 语雀
-          logo: 语雀.webp
-          url: https://www.yuque.com/
-          description: 用语雀，构建你的数字花园
-        - title: Telegra.ph
-          logo: telegra.ph.webp
-          url: https://telegra.ph/
-          description: 简洁的文章发布平台
-    - term: 工作软件
-      links:
-        - title: 飞书
-          logo: feishu.webp
-          url: https://www.feishu.cn/
-          description: 先进团队，先用飞书
-        - title: 钉钉
-          logo: dingtalk.webp
-          url: https://www.dingtalk.com/
-          description: 钉钉，让工作学习更简单！
-        - title: 企业微信
-          logo: work.weixin.webp
-          url: https://work.weixin.qq.com/
-          description: 连接创造价值
-        - title: 腾讯会议
-          logo: wemeet.webp
-          url: https://meeting.tencent.com/
-          description: 腾讯会议会开会
-        - title: BOSS直聘
-          logo: boss.webp
-          url: https://www.zhipin.com/shenzhen/
-          description: 找工作上BOSS直聘跟老板谈
-        - title: 前程无忧
-          logo: 51job.webp
-          url: https://www.51job.com/shenzhen/
-          description: 求职，上前程无忧
-        - title: 智联招聘
-          logo: zhaopin.webp
-          url: https://www.zhaopin.com/
-          description: 求职，找工作，上智联招聘
-        - title: 猎聘
-          logo: liepin.webp
-          url: https://www.liepin.com/city-sz/
-          description: 深圳人才招聘信息
-        - title: 拉勾招聘
-          logo: lagou.webp
-          url: https://www.lagou.com/shenzhen/
-          description: 上拉勾招聘，专业的互联网招聘网站
-        - title: 脉脉
-          logo: maimai.webp
-          url: https://maimai.cn/
-          description: 成就职业梦想
-    - term: office资源
-      links:
-        - title: OfficePLUS
-          url: https://www.officeplus.cn/
-          logo: officeplus.webp
-          description: OfficePLUS，微软Office官方在线模板网站！
-        - title: 优品PPT
-          url: https://www.ypppt.com/
-          logo: ypppt.webp
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源。
-        - title: 比格PPT
-          url: http://www.tretars.com/
-          logo: tretars.webp
-          description: The best free Mockups from the Web.
-        - title: PPT超级市场
-          logo: pptcjsc.webp
-          url: https://www.pptsupermarket.com/
-          description: PPT模板免费下载，最新PPT成品搜索
-        - title: AboutPPT
-          logo: aboutppt.webp
-          url: https://www.aboutppt.com/
-          description: 演示设计网址导航
-        - title: 5百丁
-          url: http://www.500d.me/
-          logo: 500d.webp
-          description: 中国领先的PPT简历模板共享平台。
-        - title: PPT资源导航
-          logo: hippter.com.webp
-          url: http://www.hippter.com/
-          description: PPT图表等设计素材免费下载
-        - title: 优设导航
-          logo: hao.uisdc.com.webp
-          url: https://hao.uisdc.com/
-          description: 设计师网址导航
-        - title: 1PPT
-          logo: 1ppt.com.webp
-          url: https://www.1ppt.com/
-          description: 第一PPT
-        - title: 动画演示大师
-          logo: focusky.com.cn.webp
-          url: https://www.focusky.com.cn/
-          description: 让PPT演示更出彩
-        - title: 办公资源网
-          logo: bangongziyuan.com.webp
-          url: https://www.bangongziyuan.com/
-          description: 海量办公素材可供下载
-        - title: 路过图床
-          logo: imgse.com.webp
-          url: https://imgse.com/
-        - title: 聚合图床
-          logo: linshi.webp
-          url: https://www.superbed.cn/
-- taxonomy: 文件处理
+          description: One-time temporary mail electronic service
+- taxonomy: File processing
   icon: far fa-file
   links:
     - title: Tinypng
       logo: tinypng.webp
       url: https://tinypng.com
       description: Optimize your images with a perfect balance in quality and file size.
-    - title: Squoosh-图片处理
+    - title: Squoosh-File processing
       logo: squoosh.app.webp
       url: https://squoosh.app/
-    - title: Removebg(去除背景)
+    - title: Removebg(remove background)
       logo: remove.bg.webp
       url: https://www.remove.bg/zh
     - title: iLoveIMG
@@ -653,29 +320,13 @@
     - title: BigJPG
       logo: bigjpg.com.webp
       url: https://bigjpg.com/
-    - title: waifu图片降噪放大
+    - title: Picture noise reduction and enlargement
       logo: waifu2x.udp.jp.webp
       url: https://waifu2x.udp.jp/
-    - title: 稿定抠图
-      url: https://www.gaoding.com
-      logo: gaoding.webp
-      description: 免费在线抠图软件,图片快速换背景-抠白底图。
-    - title: svgomg
-      url: https://jakearchibald.github.io/svgomg/
-      logo: svgomg.webp
-      description: SVG 在线压缩平台。
     - title: All to all
       logo: all2all.webp
       url: https://www.alltoall.net/
-      description: 200+免费的在线格式转换工具
-    - title: 太美工具网
-      logo: tiomg.org.webp
-      url: https://tiomg.org/
-      description: 免费在线图片、PDF、开发者工具。
-    - title: 123工具网
-      logo: 123apps.com.webp
-      url: https://123apps.com/cn/
-      description: 视频工具、音频工具、PDF工具、转换器
+      description: 200+ free online format conversion tools
     - title: ilovePDF
       logo: ilovepdf.com.webp
       url: https://www.ilovepdf.com/zh-cn
@@ -695,28 +346,12 @@
     - title: Office-Converter
       logo: office-converter.com.webp
       url: https://cn.office-converter.com/
-    - title: 文件转换器
+    - title: File Converter
       logo: convertio.co.webp
-      url: https://convertio.co/zh/
-    - title: Apowersoft在线压缩
-      logo: apowersoft.cn.webp
-      url: https://www.apowersoft.cn/compress-file-online
+      url: https://convertio.co
     - title: Online Convert Free
       logo: onlineconvertfree.com.webp
-      url: https://onlineconvertfree.com/zh/
-    - title: 创客贴
-      logo: chuangkit.com.webp
-      url: https://www.chuangkit.com/
-    - title: ProcessOn
-      logo: ProcessOn.webp
-      url: https://www.processon.com/
-      description: 免费在线作图、实时协作。
-    - title: 迅捷流程图
-      logo: liuchengtu.net.webp
-      url: https://draw.liuchengtu.net/
-    - title: 图怪兽
-      logo: 818ps.com.webp
-      url: https://818ps.com/
+      url: https://onlineconvertfree.com
 - taxonomy: 网站服务
   icon: fas fa-network-wired
   list:
@@ -1103,7 +738,7 @@
       description: 享·无止境  
     - title: 上海银行
       logo: 上海.webp
-      url: https://www.bosc.cn/zh/
+      url: https://www.bosc.cn
       description: 智慧金融，专业服务
     - title: 渤海银行
       logo: 渤海.webp
