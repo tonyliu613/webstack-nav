@@ -5,13 +5,11 @@
                 <div class="s-type text-center">
                     <div class="s-type-list big">
                         <div class="anchor" style="position: absolute; left: 50%; opacity: 0;"></div>
-                        <label for="type-google"   data-id="group-a"><span>常用</span></label>
-                        <label for="type-bing"     data-id="group-b"><span>搜索</span></label>
-                        <label for="type-ping"     data-id="group-c"><span>工具</span></label>
-                        <label for="type-taobao"   data-id="group-d"><span>生活</span></label>
-                        <label for="type-boss"     data-id="group-e"><span>招聘</span></label>
-                        <label for="type-aqc"      data-id="group-f"><span>公司</span></label>
-                        <label for="type-wiki"     data-id="group-g"><span>学术</span></label>
+                        <label for="type-useful"   data-id="group-a"><span>Useful</span></label>
+                        <label for="type-search"     data-id="group-b"><span>Search</span></label>
+                        <label for="type-tool"     data-id="group-c"><span>Tool</span></label>
+                        <label for="type-life"   data-id="group-d"><span>Life</span></label>
+                        <label for="type-study"     data-id="group-g"><span>Study</span></label>
                     </div>
                 </div>
             </div>
@@ -25,7 +23,7 @@
             <div id="search-list" class="hide-type-list">
                 <div class="search-group group-a">
                     <ul class="search-type">
-                        <li><input hidden="" type="radio" name="type" id="type-google"
+                        <li><input hidden="" type="radio" name="type" id="type-useful"
                             value="https://www.google.com/search?q=" 
                             data-placeholder="Don't be evil.">
 			                <label for="type-google"><span class="text-muted">Google</span></label></li>
@@ -53,7 +51,7 @@
                 </div>
                 <div class="search-group group-b">
                     <ul class="search-type">
-                        <li><input hidden="" type="radio" name="type" id="type-bing"
+                        <li><input hidden="" type="radio" name="type" id="type-search"
                             value="https://www.bing.com/search?q=" 
                             data-placeholder="快乐搜索，有求必应">
                             <label for="type-bing"><span class="text-muted">必应</span></label></li>
@@ -93,7 +91,7 @@
                 </div>
                 <div class="search-group group-c">
                     <ul class="search-type">
-                        <li><input hidden="" type="radio" name="type" id="type-ping"
+                        <li><input hidden="" type="radio" name="type" id="type-tool"
                             value="https://ping.chinaz.com/" 
                             data-placeholder="请输入网址(不带 https://)">
                             <label for="type-ping"><span class="text-muted">PING 检测</span></label></li>
@@ -113,7 +111,7 @@
                 </div>
                 <div class="search-group group-d">
                     <ul class="search-type">
-                        <li><input hidden="" type="radio" name="type" id="type-taobao" 
+                        <li><input hidden="" type="radio" name="type" id="type-life" 
                             value="https://s.taobao.com/search?q=" 
                             data-placeholder="淘宝·太好逛了吧！">
                             <label for="type-taobao"><span class="text-muted">淘宝</span></label></li>
@@ -135,49 +133,9 @@
                             <label for="type-gjkd"><span class="text-muted">国际快件</span></label></li>
                     </ul>
                 </div>
-                <div class="search-group group-e">
-                    <ul class="search-type">
-                        <li><input hidden="" type="radio" name="type" id="type-boss" 
-                            value="https://www.zhipin.com/web/geek/job?query=" 
-                            data-placeholder="找工作，上BOSS直聘直接谈">
-                            <label for="type-boss"><span  class="text-muted">BOSS直聘</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-zhilian" 
-                            value="https://sou.zhaopin.com/jobs/searchresult.ashx?kw=" 
-                            data-placeholder="智联招聘，更懂你的价值">
-                            <label for="type-zhilian"><span  class="text-muted">智联招聘</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-51job" 
-                            value="https://search.51job.com/?" 
-                            data-placeholder="找工作，上前程无忧">
-                            <label for="type-51job"><span class="text-muted">前程无忧</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-lagou" 
-                            value="https://www.lagou.com/jobs/list_" 
-                            data-placeholder="拉钩网">
-                            <label for="type-lagou"><span class="text-muted">拉钩网</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-liepin" 
-                            value="https://www.liepin.com/zhaopin/?key=" 
-                            data-placeholder="黄土埋金，发光靠猎聘">
-                            <label for="type-liepin"><span class="text-muted">猎聘网</span></label></li>
-                    </ul>
-                </div>
-                <div class="search-group group-f">
-                    <ul class="search-type">
-                        <li><input hidden="" type="radio" name="type" id="type-aqc" 
-                            value="https://aiqicha.baidu.com/s?q=" 
-                            data-placeholder="专业查企业，就上爱企查">
-                            <label for="type-aqc"><span  class="text-muted">爱企查</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-tyc" 
-                            value="https://tianyancha.com/search?key=" 
-                            data-placeholder="查公司，查老板，查关系">
-                            <label for="type-tyc"><span  class="text-muted">天眼查</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-qcc" 
-                            value="https://www.qcc.com/web/search?key=" 
-                            data-placeholder="查企业，上企查查">
-                            <label for="type-qcc"><span  class="text-muted">企查查</span></label></li>
-                    </ul>
-                </div>
                 <div class="search-group group-g">
                     <ul class="search-type">
-                        <li><input hidden="" type="radio" name="type" id="type-wiki" 
+                        <li><input hidden="" type="radio" name="type" id="type-study" 
                             value="https://zh.wikipedia.org/wiki/" 
                             data-placeholder="维基百科，自由的百科全书">
                             <label for="type-wiki"><span  class="text-muted">维基百科</span></label></li>
