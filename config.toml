@@ -1,6 +1,6 @@
-baseURL               = "https://csyphil.github.io"
-languageCode          = "zh-CN"
-title                 = "夕岚导航"
+baseURL               = "https://tonyliu613.github.io"
+languageCode          = "en-GB"
+title                 = "Navigation"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
