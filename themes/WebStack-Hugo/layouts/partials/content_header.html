@@ -39,35 +39,6 @@
 			    </li>
 			{{ end }}
 			</ul>
-
-                        {{ if not (eq $.Site.Params.qweather.key "") }}
-                        <div class="rounded-circle weather">
-                            <div id="he-plugin-simple" style="display: contents;"></div>
-                            <script>WIDGET = {
-                                    CONFIG: {
-                                        "modules": "01234",
-                                        "background": 5,
-                                        "tmpColor": "E4C600",
-                                        "tmpSize": 14,
-                                        "cityColor": "E4C600",
-                                        "citySize": 14,
-                                        "aqiColor": "#E4C600",
-                                        "aqiSize": 14,
-                                        "weatherIconSize": 24,
-                                        "alertIconSize": 18,
-                                        "padding": "10px 10px 10px 10px",
-                                        "shadow": "1",
-                                        "language": "auto",
-                                        "borderRadius": 5,
-                                        "fixed": "false",
-                                        "vertical": "middle",
-                                        "horizontal": "left",
-                                        "key": "{{ $.Site.Params.qweather.key }}"
-                                    }
-                                }
-                            </script>
-                            <script src="https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0"></script>
-                        </div>
                         {{ end }}
                     </div>
 
@@ -85,7 +56,7 @@
                                     })
                                     .catch(console.error)
                             </script>                           
-                            <div id="hitokoto"><a href="#" target="_blank" id="hitokoto_text">疏影横斜水清浅，暗香浮动月黄昏。</a></div>
+                            <div id="hitokoto"><a href="#" target="_blank" id="hitokoto_text">Search Website Included Here</a></div>
                         </li>
                         {{ end }}
                         <!-- 一言 end -->
