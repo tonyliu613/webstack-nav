@@ -40,34 +40,6 @@
 			{{ end }}
 			</ul>
                     </div>
-
-                    <ul class="nav navbar-menu text-xs order-1 order-md-2">
-                        <!-- 一言 -->
-                        {{ with .Site.Params.yiyan }}
-                        <li class="nav-item mr-3 mr-lg-0 d-none d-lg-block">
-                            <script>
-                                fetch('https://v1.hitokoto.cn')
-                                    .then(response => response.json())
-                                    .then(data => {
-                                    const hitokoto = document.getElementById('hitokoto_text')
-                                    hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
-                                    hitokoto.innerText = data.hitokoto
-                                    })
-                                    .catch(console.error)
-                            </script>                           
-                            <div id="hitokoto"><a href="#" target="_blank" id="hitokoto_text">Search Website Included Here</a></div>
-                        </li>
-                        {{ end }}
-                        <!-- 一言 end -->
-                        <li class="nav-search ml-3 ml-md-4">
-                            <a href="javascript:" data-toggle="modal" data-target="#search-modal"><i
-                                    class="iconfont icon-search icon-2x"></i></a>
-                        </li>
-                        <li class="nav-item d-md-none mobile-menu ml-3 ml-md-4">
-                            <a href="javascript:" id="sidebar-switch" data-toggle="modal"
-                                data-target="#sidebar"><i class="iconfont icon-classification icon-2x"></i></a>
-                        </li>
-                    </ul>
                 </div>
             </div>
         </div>
